@@ -1,0 +1,33 @@
+.secao 
+	ul {
+		padding: 10px 150px;
+		border-radius: 15px;
+		background-position: center center;
+		}
+
+
+
+.secao{
+		padding: 200px 0px;
+		}
+
+
+
+.cabecalho{
+			background-image: url("../img/1.jpg");
+			background-size: cover;
+			background-position: center center;
+			background-repeat: no-repeat;
+			padding: 250px 0px;
+			}
+
+
+
+.segunda-secao{
+				background-image: url("../img/2.jpg");
+				}
+
+
+.rodape{
+		font-size: 10pt;
+}
